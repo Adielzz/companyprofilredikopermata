@@ -6,7 +6,7 @@ Berikut adalah versi README yang sudah saya edit agar sesuai dengan proyek **Com
 
 Website ini adalah **template profil perusahaan modern** yang dibangun menggunakan **PHP** dan **HTML/CSS**, khusus untuk kebutuhan **CV Rediko Permata**. Proyek ini bertujuan memberikan **kehadiran online profesional** yang mudah dikustomisasi sesuai kebutuhan perusahaan.
 
-![🌍 Rediko Permata Website](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/product-logo.png)
+
 
 ## ✨ Fitur Utama
 
@@ -14,13 +14,11 @@ Website ini adalah **template profil perusahaan modern** yang dibangun menggunak
 🔹 **📱 Responsif:** Tampilan optimal di **perangkat mobile dan desktop**.
 🔹 **🎨 Mudah Dikustomisasi:** Desain, warna, dan konten dapat disesuaikan dengan kebutuhan.
 
-![📊 Showcase Perusahaan](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/product-6851a76da570c-WhatsApp Image 2025-06-18 at 00.17.28_6a88350c.jpg)
+
 
 ## 🔑 Panel Admin
 
 Panel admin didesain **user-friendly**, memungkinkan pengguna tanpa latar belakang teknis untuk mengelola isi website dengan mudah.
-
-![🛠️ Admin Panel](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/product-6851a76da570c-WhatsApp Image 2025-06-18 at 00.17.28_6a88350c.jpg)
 
 🖥 **Login Admin:** `admin`
 🔑 **Password:** `123`
@@ -31,7 +29,7 @@ Panel admin didesain **user-friendly**, memungkinkan pengguna tanpa latar belaka
 ✅ **🖼️ Galeri & Portofolio** – Tambah/hapus layanan atau produk.
 ✅ **👥 Manajemen User** – Kelola akun pengguna dan akses admin.
 
-![⚙️ Admin Dashboard](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/imgproduct-6851a76da570c-WhatsApp Image 2025-06-18 at 00.17.28_6a88350c.jpg)
+
 
 ## 🚀 Keunggulan Website
 
