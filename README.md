@@ -1,134 +1,93 @@
-# 🏢 PHP Business Website  
+Berikut adalah versi README yang sudah saya edit agar sesuai dengan proyek **Company Profile Rediko Permata**. Link, deskripsi, dan detail kontak sudah disesuaikan:
 
-The `php-business-website` is a **modern business website template** built using **PHP** and **HTML/CSS**. This project is designed for businesses looking for a **professional online presence**. The template is **highly customizable**, allowing users to **adapt its design and features** based on their requirements.  
+---
 
-![🌍 Business Website](https://github.com/Iqbolshoh/php-business-website/blob/main/assets/img/banner-1.png)  
+# 🏢 Company Profile Rediko Permata
 
-## ✨ Project Characteristics 
+Website ini adalah **template profil perusahaan modern** yang dibangun menggunakan **PHP** dan **HTML/CSS**, khusus untuk kebutuhan **CV Rediko Permata**. Proyek ini bertujuan memberikan **kehadiran online profesional** yang mudah dikustomisasi sesuai kebutuhan perusahaan.
 
-🔹 **🌍 Multi-Purpose:** Suitable for **services, product sales, marketing**, and more.  
-🔹 **📱 Fully Responsive:** Works perfectly on **mobile and desktop** devices.  
-🔹 **🎨 Customizable:** Modify the **design, colors, and content** as needed.  
+![🌍 Rediko Permata Website](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/banner-1.png)
 
-![📊 Business Showcase](https://github.com/Iqbolshoh/php-business-website/blob/main/assets/img/banner-2.png)  
+## ✨ Fitur Utama
 
-## 🔑 Admin Panel  
+🔹 **🌍 Multi-Purpose:** Cocok untuk menampilkan **layanan, produk, dan profil perusahaan**.
+🔹 **📱 Responsif:** Tampilan optimal di **perangkat mobile dan desktop**.
+🔹 **🎨 Mudah Dikustomisasi:** Desain, warna, dan konten dapat disesuaikan dengan kebutuhan.
 
-The **admin panel** is user-friendly and designed for users **without coding experience**. You can **update text, images, and manage your portfolio** effortlessly.  
+![📊 Showcase Perusahaan](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/banner-2.png)
 
-![🛠️ Admin Panel](https://github.com/Iqbolshoh/php-business-website/blob/main/assets/img/admin-panel-1.png)  
-🖥 **Admin Login:** `iqbolshoh`  
-🔑 **Password:** `IQBOLSHOH`  
+## 🔑 Panel Admin
 
-### ⚙️ **Admin Panel Features:** 
+Panel admin didesain **user-friendly**, memungkinkan pengguna tanpa latar belakang teknis untuk mengelola isi website dengan mudah.
 
-✅ **📄 Content Management** – Easily update text, images, and other elements.  
-✅ **🖼️ Portfolio Management** – Add/remove services and products.  
-✅ **👥 User Management** – Manage user accounts and access levels.  
+![🛠️ Admin Panel](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/admin-panel-1.png)
 
-![⚙️ Admin Dashboard](https://github.com/Iqbolshoh/php-business-website/blob/main/assets/img/admin-panel-2.png)  
+🖥 **Login Admin:** `admin`
+🔑 **Password:** `123`
 
-## 🚀 Key Features  
+### ⚙️ **Fitur Panel Admin:**
 
-🎨 **Modern Design** – A professional layout for businesses.  
-🔗 **Easy Navigation** – Intuitive system for seamless browsing.  
-🖼️ **Portfolio Showcase** – Display your services and products.  
-📩 **Contact Form** – Clients can reach out easily.  
-🛠️ **Admin Panel** – Manage website content effortlessly.  
-🎨 **Customizable Theme** – Choose from multiple color schemes.  
+✅ **📄 Manajemen Konten** – Update teks, gambar, dan elemen lain dengan mudah.
+✅ **🖼️ Galeri & Portofolio** – Tambah/hapus layanan atau produk.
+✅ **👥 Manajemen User** – Kelola akun pengguna dan akses admin.
 
-## 🛠 Installation Guide  
+![⚙️ Admin Dashboard](https://github.com/Adielzz/companyprofilredikopermata/blob/main/assets/img/admin-panel-2.png)
 
-### 📥 1. **Clone the Repository:**  
+## 🚀 Keunggulan Website
+
+🎨 **Desain Modern** – Tampilan profesional untuk profil bisnis.
+🔗 **Navigasi Mudah** – Sistem navigasi yang simpel dan intuitif.
+🖼️ **Showcase Portofolio** – Tampilkan produk dan layanan dengan menarik.
+📩 **Formulir Kontak** – Pelanggan dapat menghubungi dengan cepat.
+🛠️ **Panel Admin** – Kelola konten website tanpa coding.
+🎨 **Tema Customizable** – Ubah warna dan elemen sesuai brand.
+
+## 🛠 Panduan Instalasi
+
+### 📥 1. **Clone Repository:**
+
 ```bash
-git clone https://github.com/Iqbolshoh/php-business-website.git
+git clone https://github.com/Adielzz/companyprofilredikopermata.git
 ```
 
-### 📂 2. **Navigate to the Project Directory:**  
+### 📂 2. **Masuk ke Direktori Proyek:**
+
 ```bash
-cd php-business-website
+cd companyprofilredikopermata
 ```
 
-### 🌐 3. **Set Up the Website:**  
-- Host it on a server that supports **PHP** (Apache or Nginx).  
-- Open **`http://localhost/php-business-website`** in your browser.  
+### 🌐 3. **Jalankan Website:**
 
+* Hosting di server yang mendukung **PHP** (seperti Apache).
+* Akses di browser via **`http://localhost/companyprofilredikopermata`** atau sesuai konfigurasi server kamu.
 
-## 🖥 Technologies Used
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230e76a8.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🖥 Teknologi yang Digunakan
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230e76a8.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-## 🤝 Contributing  
-🎯 Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
+## 📜 Lisensi
 
-## 📬 Connect with Me  
-💬 I love meeting new people and discussing tech, business, and creative ideas. Let’s connect! You can reach me on these platforms:
+Proyek ini bersifat open-source di bawah lisensi **MIT License**.
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://iqbolshoh.uz" target="_blank">
-          <img src="https://img.icons8.com/color/48/domain.png" 
-               height="40" width="40" alt="Website" title="Website" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:iilhomjonov777@gmail.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
-               height="40" width="40" alt="Email" title="Email" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iqbolshoh" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               height="40" width="40" alt="GitHub" title="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/iqbolshoh/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
-               height="40" width="40" alt="LinkedIn" title="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/iqbolshoh_777" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
-               height="40" width="40" alt="Telegram" title="Telegram" />
-        </a>
-      </td>
-      <td>
-        <a href="https://wa.me/998997799333" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
-               height="40" width="40" alt="WhatsApp" title="WhatsApp" />
-        </a>
-      </td>
-      <td>
-        <a href="https://instagram.com/iqbolshoh_777" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-               height="40" width="40" alt="Instagram" title="Instagram" />
-        </a>
-      </td>
-      <td>
-        <a href="https://x.com/iqbolshoh_777" target="_blank">
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-               height="40" width="40" alt="X" title="X (Twitter)" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@Iqbolshoh_777" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-               height="40" width="40" alt="YouTube" title="YouTube" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🤝 Kontribusi
+
+🎯 Kontribusi sangat terbuka! Jika ingin memberi saran atau meningkatkan proyek ini, silakan fork repository dan buat pull request.
+
+## 📬 Kontak
+
+Untuk pertanyaan atau kerja sama terkait Rediko Permata, silakan hubungi:
+
+* 🌐 Website: \[Belum tersedia]
+* ✉️ Email: [redikopermata@gmail.com](mailto:redikopermata@gmail.com)
+* 📞 WhatsApp: [0881026923408](https://wa.me/62881026923408)
+* 💼 GitHub: [Adielzz](https://github.com/Adielzz)
+
+---
+
+Kalau mau, saya buatin file `README.md`-nya langsung biar tinggal copy-paste, mau? 🚀
